@@ -1,4 +1,4 @@
-package main.java.com.jobscheduler.service;
+package com.jobscheduler.service;
 
 import com.jobscheduler.dto.JobRequest;
 import com.jobscheduler.entity.Job;

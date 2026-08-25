@@ -1,4 +1,4 @@
-package main.java.com.jobscheduler.repository;
+package com.jobscheduler.repository;
 
 import com.jobscheduler.entity.Queue;
 import org.springframework.data.jpa.repository.JpaRepository;
